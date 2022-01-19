@@ -1,0 +1,41 @@
+{
+  "faqSections": [
+    {
+      "id": 0,
+      "title": "",
+      "items": [
+        {
+          "id": 0,
+          "title": "Perché non riesco a vedere la X riguardo questa canzone?",
+          "text": "Le informazioni che vedi su una canzone sono confrontate con il database di MusicBrainz (altri saranno supportati in futuro). Per un'esperienza ottimale, ti consigliamo di collegarti ad Apple Music così da poter trovare ancora più informazioni sulla canzone."
+        },
+        {
+          "id": 1,
+          "title": "Come fa a riconoscere la canzone?",
+          "text": "NowPlaying si basa interamente sulla bellissima tecnologia di ShazamKit. Un grande team impiegherebbe molto tempo per sviluppare una tecnologia che si avvicini lontanamente a ciò che fa Shazam. Il potere di NowPlaying deriva dalla possibilità di cercare il brano in un ampio database di conoscenze musicali di Apple Music, Discogs e MusicBrainz"
+        },
+        {
+          "id": 2,
+          "title": "Perchè la copertina dell'album è diversa da quella del mio disco?",
+          "text": "Una canzone viene spesso pubblicata su molti dischi diversi nel tempo. Ad esempio, una canzone potrebbe essere pubblicata prima su un EP e successivamente essere inclusa nell'ultimo album. Noi, purtroppo, non possiamo (ancora) trovare la differenza."
+        }
+      ]
+    }
+  ],
+  "contactItems": [
+    {
+      "id": 0,
+      "title": "Twitter",
+      "url": "https://www.twitter.com/hiddevdploeg",
+      "imageName": "newspaper.circle.fill",
+      "color": 1
+    },
+    {
+      "id": 1,
+      "title": "Contact Us",
+      "url": "mailto:hidde@modumhq.com",
+      "imageName": "paperplane.circle.fill",
+      "color": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "faqSections": [
+    {
+      "id": 0,
+      "title": "",
+      "items": [
+        {
+          "id": 0,
+          "title": "Warum kann ich X über den Song nicht sehen?",
+          "text": "Die Information die du siehst wird mit der MusicBrainz Datenbank abgeglichen. Für das beste Erlebnis raten wir, mit Apple Music zu verbinden, da wir so noch mehr Informationen über den Song teilen können."
+        },
+        {
+          "id": 1,
+          "title": "Wie wird der Song erkannt?",
+          "text": "NowPlaying baut auf der wunderbaren Technologie des ShazamKit auf. Ein großes Team bräuchte viel Zeit um eine solche Technologie zu entwickeln. Die Kraft von NowPlaying kommt durch das Vergleichen eines Songs mit der Datenbank von Apple Music, Discogs und MusicBrainz"
+        },
+        {
+          "id": 2,
+          "title": "Warum ist das Cover anders als bei meiner Platte?",
+          "text": "Derselbe Song wird meist mehrfach veröffentlicht. Zum Beispiel auf einer EP und später auf dem neuesten Album. Zurzeit können wir dies leider (noch) nicht unterscheiden."
+        }
+      ]
+    }
+  ],
+  "contactItems": [
+    {
+      "id": 0,
+      "title": "Twitter",
+      "url": "https://www.twitter.com/hiddevdploeg",
+      "imageName": "newspaper.circle.fill",
+      "color": 1
+    },
+    {
+      "id": 1,
+      "title": "Contact Us",
+      "url": "mailto:hidde@modumhq.com",
+      "imageName": "paperplane.circle.fill",
+      "color": 2
+    }
+  ]
+}
