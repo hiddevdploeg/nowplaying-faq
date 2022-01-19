@@ -1,0 +1,41 @@
+{
+  "faqSections": [
+    {
+      "id": 0,
+      "title": "",
+      "items": [
+        {
+          "id": 0,
+          "title": "Why can't I see the X about the song?",
+          "text": "The information you see about a song is matched against the MusicBrainz database (more to come). But for the most optimal experience, we suggest connecting to Apple Music as we can find even more information about the song in that case."
+        },
+        {
+          "id": 1,
+          "title": "How does it recognise the song?",
+          "text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. The power of NowPlaying comes with holding the match against an extensive database of music knowledge from Apple Music and/or MusicBrainz."
+        },
+        {
+          "id": 2,
+          "title": "Why is the album art different compared to my record?",
+          "text": "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distinguish the difference there (yet)."
+        }
+      ]
+    }
+  ],
+  "contactItems": [
+    {
+      "id": 0,
+      "title": "Twitter",
+      "url": "https://www.twitter.com/hiddevdploeg",
+      "imageName": "newspaper.circle.fill",
+      "color": 1
+    },
+    {
+      "id": 1,
+      "title": "Contact Us",
+      "url": "mailto:hidde@modumhq.com",
+      "imageName": "paperplane.circle.fill",
+      "color": 2
+    }
+  ]
+}
