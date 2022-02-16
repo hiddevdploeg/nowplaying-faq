@@ -18,6 +18,11 @@
           "id": 2,
           "title": "Why is the album art different compared to my record?",
           "text": "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distinguish the difference there (yet)."
+        },
+        {
+          "id": 3,
+          "title": "Why is some of the content in a different language?",
+          "text": "Not all content we find is or can be localized as we have no control on it."
         }
       ]
     }
@@ -32,6 +37,13 @@
     },
     {
       "id": 1,
+      "title": "Instagram",
+      "url": "https://www.instagram.com/nowplaying.app",
+      "imageName": "camera.circle.fill",
+      "color": 2
+    },
+    {
+      "id": 2,
       "title": "Contact Us",
       "url": "mailto:hidde@modumhq.com",
       "imageName": "paperplane.circle.fill",
