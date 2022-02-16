@@ -18,6 +18,11 @@
           "id": 2,
           "title": "Waarom is de albumhoes anders dan mijn LP?",
           "text": "Elk nummer wordt meerdere keren uitgebracht, hierdoor is het soms onmogelijk the herkennen welke uitgave het precies is."
+        },
+        {
+          "id": 3,
+          "title": "Waarom zijn sommige teksten in het Engels?",
+          "text": "Niet alle content die wij vinden is te vertalen of hebben wij controle over."
         }
       ]
     }
