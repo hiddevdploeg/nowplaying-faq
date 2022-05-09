@@ -22,11 +22,11 @@
         {
           "id": 3,
           "title": "Why is everything in English?",
-          "text": "We collect content from a lot of different sources, and to translate all this content would take a lot of time and effort. Currently, I can't afford to spend that amount of time on translations but let's hope the future will bring translated content to everyone."
+          "text": "NowPlaying collects content from a lot of different sources which often only is available in English. To make sure everyone gets the same experience I have decided to remove all translations for now. I hope to find a good solution in the future which would make sure all content will be available in multiple languages but for now I choose this direction.\n\n I really hope you understand."
         },
         {
           "id": 4,
-          "title": "Why does NowPlaying require iOS 15/ iPadOS 15/ watchOS 8 or newer?",
+          "title": "Why does NowPlaying not work on older versions of iOS?",
           "text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is not available on older versions of iOS/iPadOS or watchOS."
         }
       ]
