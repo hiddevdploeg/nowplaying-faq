@@ -1,0 +1,46 @@
+{
+  "faqSections": [
+    {
+      "id": 0,
+      "title": "",
+      "items": [
+        {
+          "id": 0,
+          "title": "Waarom kan ik X niet zien over het nummer?",
+          "text": "De informatie over elk nummer wordt gevonden in de MusicBrainz database (meer bronnen komen nog). Voor de optimale ervaring koppel je ook jou Apple Music bibliotheek om nog meer informatie te krijgen."
+        },
+        {
+          "id": 1,
+          "title": "Hoe herkent hij het nummer?",
+          "text": "NowPlaying is volledig gebouwd op de technologie achter Shazam. Het zou anders een groot team maanden lang kosten om ook maar in de buurt te komen van wat Shazam kan herkennen. De kracht van NowPlaying is dat wij het gevonden nummer koppelen met de grote database van Apple Music, Discogs & MusicBrainz om je meer te kunnen vertellen."
+        },
+        {
+          "id": 2,
+          "title": "Waarom is de albumhoes anders dan mijn LP?",
+          "text": "Elk nummer wordt meerdere keren uitgebracht, hierdoor is het soms onmogelijk the herkennen welke uitgave het precies is."
+        },
+        {
+          "id": 3,
+          "title": "Waarom zijn sommige teksten in het Engels?",
+          "text": "Niet alle content die wij vinden is te vertalen of hebben wij controle over."
+        }
+      ]
+    }
+  ],
+  "contactItems": [
+    {
+      "id": 0,
+      "title": "Twitter",
+      "url": "https://www.twitter.com/hiddevdploeg",
+      "imageName": "newspaper.circle.fill",
+      "color": 1
+    },
+    {
+      "id": 1,
+      "title": "Neem contact op",
+      "url": "mailto:hidde@modumhq.com",
+      "imageName": "paperplane.circle.fill",
+      "color": 2
+    }
+  ]
+}

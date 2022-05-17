@@ -1,0 +1,41 @@
+{
+  "faqSections": [
+    {
+      "id": 0,
+      "title": "",
+      "items": [
+        {
+          "id": 0,
+          "title": "¿Por qué no puedo ver el/la X sobre la canción?",
+          "text": "La información mostrada sobre una canción es comparada con la base de datos de MusicBrainz (más por venir). Para una experiencia óptima, sugerimos conectarse a Apple Music para poder encontrar aún más información sobre la canción."
+        },
+        {
+          "id": 1,
+          "title": "¿Cómo reconoce la canción?",
+          "text": "NowPlaying utiliza la maravillosa tecnología de ShazamKit. Se necesitaría un equipo enrome y bastante tiempo para desarrollar una tecnología que remotamente haga lo que Shazam puede hacer. El poder de NowPlaying proviene de comparar una extensa base de datos musical de Apple Music, Discogs y MusicBrainz"
+        },
+        {
+          "id": 2,
+          "title": "¿Por qué el arte del álbum es distinto al de mi disco?",
+          "text": "Usualmente una canción es lanzada en varios álbums a través del tiempo. Por ejemplo, una canción puede ser incluída primero en un EP y después incluída en otro disco. Desafortunadamente, nosotros no podemos distinguir la diferencia (todavía)."
+        }
+      ]
+    }
+  ],
+  "contactItems": [
+    {
+      "id": 0,
+      "title": "Twitter",
+      "url": "https://www.twitter.com/hiddevdploeg",
+      "imageName": "newspaper.circle.fill",
+      "color": 1
+    },
+    {
+      "id": 1,
+      "title": "Contáctanos",
+      "url": "mailto:hidde@modumhq.com",
+      "imageName": "paperplane.circle.fill",
+      "color": 2
+    }
+  ]
+}
