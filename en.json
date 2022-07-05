@@ -28,7 +28,12 @@
           "id": 4,
           "title": "Why does NowPlaying not work on older versions of iOS?",
           "text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is not available on older versions of iOS/iPadOS or watchOS."
-        }
+        },
+        {
+                  "id": 5,
+                  "title": "Do I need to purchase a subscription?",
+                  "text": "If you've been using NowPlaying before version 1.5 and you either purchased Gold then or purchased NowPlaying in the early days, we will not charge you again and you can keep using NowPlaying as is. If you're new to NowPlaying you need to subscribe or do a one-time purchase if you like to keep using all features."
+                }
       ]
     }
   ],
