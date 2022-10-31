@@ -1,63 +1,64 @@
 {
-  "faqSections": [
-    {
-      "id": 0,
-      "title": "",
-      "items": [
-        {
-          "id": 0,
-          "title": "Why can't I see the X about the song?",
-          "text": "The information you see about a song is matched against the MusicBrainz database (more to come). But for the most optimal experience, we suggest connecting to Apple Music as we can find even more information about the song in that case."
-        },
-        {
-          "id": 1,
-          "title": "How does it recognise the song?",
-          "text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. The power of NowPlaying comes with holding the match against an extensive database of music knowledge from Apple Music and/or MusicBrainz."
-        },
-        {
-          "id": 2,
-          "title": "Why is the album art different compared to my record?",
-          "text": "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distinguish the difference there (yet)."
-        },
-        {
-          "id": 3,
-          "title": "Why is everything in English?",
-          "text": "NowPlaying collects content from a lot of different sources which often only is available in English. To make sure everyone gets the same experience I have decided to remove all translations for now. I hope to find a good solution in the future which would make sure all content will be available in multiple languages but for now I choose this direction.\n\n I really hope you understand."
-        },
-        {
-          "id": 4,
-          "title": "Why does NowPlaying not work on older versions of iOS?",
-          "text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is not available on older versions of iOS/iPadOS or watchOS."
-        },
-        {
-                  "id": 5,
-                  "title": "Do I need to purchase a subscription?",
-                  "text": "If you've been using NowPlaying before version 1.5 and you either purchased Gold then or purchased NowPlaying in the early days, we will not charge you again and you can keep using NowPlaying as is. If you're new to NowPlaying you need to subscribe or do a one-time purchase if you like to keep using all features."
-                }
-      ]
-    }
-  ],
-  "contactItems": [
-    {
-      "id": 0,
-      "title": "Twitter",
-      "url": "https://www.twitter.com/hiddevdploeg",
-      "imageName": "newspaper.circle.fill",
-      "color": 1
-    },
-    {
-      "id": 1,
-      "title": "Instagram",
-      "url": "https://www.instagram.com/nowplaying.app",
-      "imageName": "camera.circle.fill",
-      "color": 2
-    },
-    {
-      "id": 2,
-      "title": "Contact Us",
-      "url": "mailto:hidde@modumhq.com",
-      "imageName": "paperplane.circle.fill",
-      "color": 2
-    }
-  ]
+	"faqSections": [{
+		"id": 0,
+		"title": "",
+		"items": [{
+				"id": 0,
+				"title": "Why can't I see the X about the song?",
+				"text": "The information you see about a song is matched against the MusicBrainz database (more to come). But for the most optimal experience, we suggest connecting to Apple Music as we can find even more information about the song in that case."
+			},
+			{
+				"id": 1,
+				"title": "How does it recognise the song?",
+				"text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. NowPlaying however, take's that match one step further and finds as much information as we can about the song."
+			},
+			{
+				"id": 2,
+				"title": "Where do you get the information from?",
+				"text": "Apple Music, MusicBrainz, Genius.com, TheAudioDB and our own source which sometimes gets information directly from the artists themselves."
+			},
+			{
+				"id": 3,
+				"title": "Why is the album art different compared to my record?",
+				"text": "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distinguish the difference there (yet)."
+			},
+			{
+				"id": 4,
+				"title": "Why is everything in English?",
+				"text": "NowPlaying collects content from a lot of different sources which often only is available in English. To make sure everyone gets the same experience I have decided to remove all translations for now. I hope to find a good solution in the future which would make sure all content will be available in multiple languages but for now I choose this direction.\n\n I really hope you understand."
+			},
+			{
+				"id": 5,
+				"title": "Why does NowPlaying not work on older versions of iOS?",
+				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is not available on older versions of iOS/iPadOS or watchOS."
+			},
+			{
+				"id": 6,
+				"title": "Do I need to purchase a subscription?",
+				"text": "If you've been using NowPlaying before version 1.5 and you either purchased Gold then or purchased NowPlaying in the early days, we will not charge you again and you can keep using NowPlaying as is. If you're new to NowPlaying you need to subscribe or do a one-time purchase if you like to keep using all features."
+			}
+		]
+	}],
+	"contactItems": [{
+			"id": 0,
+			"title": "Twitter",
+			"url": "https://www.twitter.com/NowPlayingGold",
+			"imageName": "newspaper.circle.fill",
+			"color": 1
+		},
+		{
+			"id": 1,
+			"title": "Instagram",
+			"url": "https://www.instagram.com/nowplaying.app",
+			"imageName": "camera.circle.fill",
+			"color": 2
+		},
+		{
+			"id": 2,
+			"title": "Contact Us",
+			"url": "mailto:hidde@modumhq.com",
+			"imageName": "paperplane.circle.fill",
+			"color": 2
+		}
+	]
 }
