@@ -30,7 +30,7 @@
 			{
 				"id": 5,
 				"title": "Why does NowPlaying not work on older versions of iOS?",
-				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is not available on older versions of iOS/iPadOS or watchOS."
+				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is only available on iOS 15 and up."
 			},
 			{
 				"id": 6,
