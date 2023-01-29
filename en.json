@@ -15,7 +15,7 @@
 			{
 				"id": 2,
 				"title": "Where do you get the information from?",
-				"text": "Apple Music, MusicBrainz, Genius.com, TheAudioDB, Discogs, SongLinks, Last.FM and our very own API which sometimes gets information directly from the artists or labels themselves."
+				"text": "NowPlaying uses a ton of different sources to find and match content with the songs. Some of the sources include Apple Music, MusicBrainz, Genius.com, TheAudioDB, Discogs, SongLinks, Last.FM and our very own API which sometimes gets information directly from the artists or labels themselves."
 			},
 			{
 				"id": 4,
