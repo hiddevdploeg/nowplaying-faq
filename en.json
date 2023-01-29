@@ -4,23 +4,18 @@
 		"title": "",
 		"items": [{
 				"id": 0,
-				"title": "Why can't I see the X about the song?",
-				"text": "The information you see about a song is matched against the MusicBrainz database (more to come). But for the most optimal experience, we suggest connecting to Apple Music as we can find even more information about the song in that case."
+				"title": "Why can't I see any lyrics?",
+				"text": "I haven't found the best resource yet to fetch lyrics from a song. Currently you would find lyrics for some of the popular songs but I'm still looking for sources that have a bigger database of lyrics."
 			},
 			{
 				"id": 1,
 				"title": "How does it recognise the song?",
-				"text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. NowPlaying however, take's that match one step further and finds as much information as we can about the song."
+				"text": "NowPlaying relies entirely on the beautiful technology of ShazamKit. It would take a big team a lot of time to develop a technology that comes remotely close to what Shazam does. NowPlaying however, take's that match one step further and finds as much information as I can about the song."
 			},
 			{
 				"id": 2,
 				"title": "Where do you get the information from?",
-				"text": "Apple Music, MusicBrainz, Genius.com, TheAudioDB, Discogs, SongLinks and our own source which sometimes gets information directly from the artists themselves."
-			},
-			{
-				"id": 3,
-				"title": "Why is the album art different compared to my record?",
-				"text": "A song often gets released on many different records over time. For example, a song could be released on an EP first and later be featured on the latest album. We, unfortunately, can't distinguish the difference there (yet)."
+				"text": "Apple Music, MusicBrainz, Genius.com, TheAudioDB, Discogs, SongLinks, Last.FM and our very own API which sometimes gets information directly from the artists or labels themselves."
 			},
 			{
 				"id": 4,
@@ -30,13 +25,8 @@
 			{
 				"id": 5,
 				"title": "Why does NowPlaying not work on older versions of iOS?",
-				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is only available on iOS 15 and up."
+				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is only available on iOS 15 and up. Additionally in 2022 Apple added significant improvements to the Apple Music API that improved the experience of NowPlaying drastically."
 			},
-			{
-				"id": 6,
-				"title": "Do I need to purchase a subscription?",
-				"text": "If you've been using NowPlaying before version 1.5 and you either purchased Gold then or purchased NowPlaying in the early days, we will not charge you again and you can keep using NowPlaying as is. If you're new to NowPlaying you need to subscribe or do a one-time purchase if you like to keep using all features."
-			}
 		]
 	}],
 	"contactItems": [{
