@@ -2,11 +2,7 @@
 	"faqSections": [{
 		"id": 0,
 		"title": "",
-		"items": [{
-				"id": 0,
-				"title": "Why can't I see any lyrics?",
-				"text": "I haven't found the best resource yet to fetch lyrics from a song. Currently you would find lyrics for some of the popular songs but I'm still looking for sources that have a bigger database of lyrics."
-			},
+		"items": [
 			{
 				"id": 1,
 				"title": "How does it recognise the song?",
@@ -15,23 +11,38 @@
 			{
 				"id": 2,
 				"title": "Where do you get the information from?",
-				"text": "NowPlaying uses a ton of different sources to find and match content with the songs. Some of the sources include Apple Music, MusicBrainz, Genius.com, TheAudioDB, Discogs, SongLinks, Last.FM and our very own API which sometimes gets information directly from the artists or labels themselves."
+				"text": "NowPlaying uses many different sources to find and match content with the songs. Some sources include Apple Music, MusicBrainz, Genius.com, TheAudioDB, Discogs, SongLinks, Last.FM and our very own API sometimes get information directly from the artists or labels themselves."
 			},
 			{
 				"id": 4,
 				"title": "Why is everything in English?",
-				"text": "NowPlaying collects content from a lot of different sources which often only is available in English. To make sure everyone gets the same experience I have decided to remove all translations for now. I hope to find a good solution in the future which would make sure all content will be available in multiple languages but for now I choose this direction.\n\n I really hope you understand."
+				"text": "NowPlaying collects content from many different sources, often only available in English. To ensure everyone gets the same experience, We have removed all translations for now. We hope to find a good solution in the future to ensure all content will be available in multiple languages, but for now, we have chosen this direction.\n\n We really hope you understand."
 			},
 			{
 				"id": 5,
 				"title": "Why does NowPlaying not work on older versions of iOS?",
-				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit, this API by Apple is only available on iOS 15 and up. Additionally in 2022 Apple added significant improvements to the Apple Music API that improved the experience of NowPlaying drastically."
+				"text": "One of the core technologies that's being used by NowPlaying is called ShazamKit. This API by Apple is only available on iOS 15 and up. Additionally, in 2022, Apple added significant improvements to the Apple Music API that drastically improved the experience of NowPlaying."
 			},
+			{
+				"id": 6,
+				"title": "How can I display songs on TV?",
+				"text": "If you have a TV with AirPlay support or an AppleTV installed, then you can mirror your screen like this:\n1. Connect your iPhone or iPad to the same Wi-Fi network as your Apple TV, AirPlay-compatible smart TV or Mac.\n2. Open Control Centre\n3.Tap the Screen Mirroring button (two squares)\n4. Select your TV or Mac from the list and connect.\n5. Open NowPlaying on your device.\n\nNow you will see the current song on your TV and the facts on your device. Feel free to lock your device, which will keep updating in the background until you stop."
+			},
+			{
+				"id": 7,
+				"title": "Why can I only play snippets of songs?",
+				"text": "We currently don't support playback of any songs as we focus on providing the best content. However, we might add this functionality in the (near) future."
+			},
+			{
+				"id": 8,
+				"title": "How do I use a different streaming service?",
+				"text": "Currently, Apple Music has the best integration, but in settings, you can select Spotify, Tidal, Deezer or YouTube Music as well. This will change the 'Open in Apple Music' to open in your selected service. We are working on a tighter Spotify integration as well."
+			}
 		]
 	}],
 	"contactItems": [{
 			"id": 0,
-			"title": "Twitter",
+			"title": "X",
 			"url": "https://www.twitter.com/NowPlayingGold",
 			"imageName": "newspaper.circle.fill",
 			"color": 1
